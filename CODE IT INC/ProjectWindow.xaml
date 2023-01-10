@@ -1,0 +1,58 @@
+﻿<Window x:Class="CODE_IT_INC.ProjectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CODE_IT_INC"
+        mc:Ignorable="d"
+        Title="ProjectWindow" Height="450" Width="550">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" Margin="40" Grid.RowSpan="3">
+            <Label Name="lblProjectName" Content="Project Name:" VerticalAlignment="Center" Width="100" Target="{Binding ElementName=txtProjectName}">
+            </Label>
+            <TextBox Name="txtProjectName" >
+            </TextBox>
+            <Label Name="lblBudget" Content="Budget:"  Target="{Binding ElementName=txtBudget}">
+            </Label>
+            <TextBox Name="txtBudget">
+            </TextBox>
+            <Label Name="lblSpent" Content="Spent:" Target="{Binding ElementName=txtBudget}">
+            </Label>
+            <TextBox Name="txtSpent">
+            </TextBox>
+            <Label Name="lblEstHours" Content="Est Hours Remaining:"  Target="{Binding ElementName=txtBudget}">
+            </Label>
+            <TextBox Name="txtEstHours">
+            </TextBox>
+            <Label Name="lblStatus" Content="Status:" Target="{Binding ElementName=cboStatus}">
+            </Label>
+            <ComboBox Name="cboStatus"  DropDownClosed="cboStatus_DropDownClosed">
+                <ComboBoxItem Content="Requirements">
+                </ComboBoxItem>
+                <ComboBoxItem Content="Design">
+                </ComboBoxItem>
+                <ComboBoxItem Content="Implementation">
+                </ComboBoxItem>
+                <ComboBoxItem Content="Testing">
+                </ComboBoxItem>
+                <ComboBoxItem Content="Deployment">
+                </ComboBoxItem>
+                <ComboBoxItem Content="Completed">
+                </ComboBoxItem>
+            </ComboBox>
+               
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.RowSpan="4" >
+            <Button Name="btnAlter" Content="Alter" Margin="20,300,0,30" Width="200" Height="40" Click="btnAlter_Click">
+            </Button>
+            <Button Name="btnClose" Content="Close Window" Margin="110,300,0,30" Width="200" Height="40" Click="btnClose_Click">
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

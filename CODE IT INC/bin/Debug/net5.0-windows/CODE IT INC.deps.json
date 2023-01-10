@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CODE IT INC/1.0.0": {
+        "runtime": {
+          "CODE IT INC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CODE IT INC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

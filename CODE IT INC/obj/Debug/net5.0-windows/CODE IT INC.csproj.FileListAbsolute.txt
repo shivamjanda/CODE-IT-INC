@@ -1,0 +1,48 @@
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.csproj.AssemblyReference.cache
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC_MarkupCompile.cache
+C:\Users\shivh\source\repos\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.exe
+C:\Users\shivh\source\repos\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.deps.json
+C:\Users\shivh\source\repos\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.runtimeconfig.json
+C:\Users\shivh\source\repos\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.runtimeconfig.dev.json
+C:\Users\shivh\source\repos\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.dll
+C:\Users\shivh\source\repos\CODE IT INC\bin\Debug\net5.0-windows\ref\CODE IT INC.dll
+C:\Users\shivh\source\repos\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.pdb
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC_MarkupCompile.lref
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.g.resources
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.AssemblyInfoInputs.cache
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.AssemblyInfo.cs
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.csproj.CoreCompileInputs.cache
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.dll
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\ref\CODE IT INC.dll
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.pdb
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.genruntimeconfig.cache
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\ProjectWindow.g.cs
+C:\Users\shivh\source\repos\CODE IT INC\obj\Debug\net5.0-windows\ProjectWindow.baml
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.exe
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.deps.json
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.runtimeconfig.json
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.runtimeconfig.dev.json
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.dll
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\bin\Debug\net5.0-windows\ref\CODE IT INC.dll
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\bin\Debug\net5.0-windows\CODE IT INC.pdb
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.csproj.AssemblyReference.cache
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\ProjectWindow.g.cs
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC_MarkupCompile.cache
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC_MarkupCompile.lref
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\ProjectWindow.baml
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.g.resources
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.AssemblyInfoInputs.cache
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.AssemblyInfo.cs
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.csproj.CoreCompileInputs.cache
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.dll
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\ref\CODE IT INC.dll
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.pdb
+C:\Users\shivh\OneDrive\Desktop\CODE IT INC\obj\Debug\net5.0-windows\CODE IT INC.genruntimeconfig.cache

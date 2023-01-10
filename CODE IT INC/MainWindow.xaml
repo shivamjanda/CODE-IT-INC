@@ -1,0 +1,65 @@
+﻿<Window x:Class="CODE_IT_INC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CODE_IT_INC"
+        mc:Ignorable="d"
+         Activated="Switch"
+        Title="CODE IT INC" Height="500" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1" Margin="50" >
+            <ListBox Name="lbAllProjects" MouseDoubleClick="ListBox_Click">
+            </ListBox>
+        </StackPanel>
+        
+        <StackPanel Orientation="Vertical" Margin="50" Grid.Column="0">
+            <Label Name="lblProjectName" Content="Project Name:" Target="{Binding ElementName=txtProjectName}">
+            </Label>
+            <TextBox Name="txtProjectName" VerticalAlignment="Center" Width="100">
+            </TextBox>
+            <Label Name="lblBudget" Content="Budget:" Target="{Binding ElementName=txtBudget}">
+            </Label>
+            <TextBox Name="txtBudget" VerticalAlignment="Center" Width="100">
+            </TextBox>
+            <Label Name="lblSpent" Content="Spent:" Target="{Binding ElementName=txtSpent}">
+            </Label>
+            <TextBox Name="txtSpent" VerticalAlignment="Center" Width="100">
+            </TextBox>
+            <Label Name="lblEstHoursRemaining" Content="Est Hours Remaining:" Target="{Binding ElementName=txtEstHoursRemaining}">
+            </Label>
+            <TextBox Name="txtEstHoursRemaining" VerticalAlignment="Center" Width="100">
+            </TextBox>
+            <Label Name="lblStatus" Content="Status:" Target="{Binding ElementName=cboStatus}">
+            </Label>
+            <ComboBox Name="cboStatus" DropDownClosed="cboStatus_DropDownClosed">
+                <ComboBoxItem Content="Requirements">
+                </ComboBoxItem>
+                <ComboBoxItem Content="Design">
+                </ComboBoxItem>
+                <ComboBoxItem Content="Implementation">
+                </ComboBoxItem>
+                <ComboBoxItem Content="Testing">
+                </ComboBoxItem>
+                <ComboBoxItem Content="Deployment">
+                </ComboBoxItem>
+                <ComboBoxItem Content="Completed">
+                </ComboBoxItem>
+            </ComboBox>
+            <Button Name="btnCreateProject" Content="Create Project" Margin="50" Click="click">
+            </Button>
+        </StackPanel>
+
+    </Grid>
+
+       
+
+</Window>
+        
+        
+         
+   
